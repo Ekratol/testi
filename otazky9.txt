@@ -1,0 +1,21 @@
+NADPIS; Základy programování ve Scratchi (Skupina A a B)
+
+[VARIANTA A]
+ABCD; 1; Jak se v prostředí Scratch nazývá postava (objekt), kterému tvoříme scénář?; Sprite (postava) *; Scéna (pódium); Kostým
+ABCD; 1; Kde na scéně leží bod se souřadnicemi [x = 0, y = 0]?; Přesně uprostřed scény *; V levém horním rohu; V pravém dolním rohu
+DOPLNIT; 1; Kterým směrem se postava pohne při příkazu "změň x o 50"? (napiš směr jedním slovem):; doprava; vpravo
+ABCD; 1; Jaký je rozdíl mezi bloky "opakuj 10 krát" a "opakuj stále"?; Opakuj 10 krát se provede desetkrát a program pokračuje, opakuj stále běží do zastavení programu *; Oba bloky dělají úplně totéž; Opakuj stále se provede jen jednou
+OTEVRENA; 2; K čemu slouží v programu podmínka "když ... tak ... jinak ..."? Uveď konkrétní příklad použití ve hře.
+OTEVRENA; 2; Co je to „proměnná“ ve Scratchi a na co ji nejčastěji používáme?
+OTEVRENA; 2; Co udělá postava, když spustíme skript: po kliknutí na zelenou vlajku -> skoč na x: 0 y: 0 -> otoč se směrem 90 -> opakuj 4 krát [ dopředu 100 kroků, otoč se vpravo o 90 stupňů ]?
+ABCD; 1; Proč v programu často dáváme příkaz "čekej 0.2 sekund" uvnitř cyklu při přepínání kostýmů?; Bez čekání by se kostýmy přepínaly příliš rychle a oko by nevidělo plynulý pohyb *; Aby se počítač nepřehřál; Protože jinak cyklus vůbec nefunguje
+
+[VARIANTA B]
+ABCD; 1; Jak se nazývají barevné stavební kameny, ze kterých skládáme program ve Scratchi?; Bloky (příkazy) *; Kostýmy; Proměnné
+DOPLNIT; 1; Kterým směrem se postava pohne při příkazu "změň y o -40"? (napiš směr jedním slovem):; dolů
+ABCD; 1; Jaký je rozdíl mezi bloky "dopředu 10 kroků" a "klouzej 1 sekund na x: 100 y: 0"?; Dopředu posune postavu okamžitě skokem, klouzej ji přesune plynule během jedné sekundy *; Klouzej přesune postavu okamžitě a dopředu pomalu; Oba bloky posunou postavu úplně stejně rychle
+DOPLNIT; 1; Která kategorie bloků (světle modrá) slouží ke zjišťování, zda se postava dotýká barvy nebo jiné postavy?:; Vnímání; vnimani
+OTEVRENA; 2; Proč musíme na začátku hry (hned pod zelenou vlajku) nastavit proměnnou skóre příkazem "nastav skóre na 0"?
+OTEVRENA; 2; Co se stane s postavou po spuštění skriptu: po stisku klávesy mezerník -> změň velikost o 20 -> čekej 1 sekund -> změň velikost o -20?
+OTEVRENA; 2; K čemu slouží bloky z kategorie Události (např. "po kliknutí na zelenou vlajku") a proč musí být vždy na začátku skriptu?
+OTEVRENA; 2; K čemu slouží bloky "skryj" a "ukaž" v kategorii Vzhled a proč je dobré dát blok "ukaž" hned na začátek programu?
