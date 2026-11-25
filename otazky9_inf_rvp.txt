@@ -1,0 +1,19 @@
+NADPIS; Informatika (9. ročník - dle RVP ZV)
+
+[VARIANTA A]
+ABCD; 1; [Data, informace a modelování] Co je to komprese dat (např. formát ZIP nebo MP3) a jaký je její hlavní účel?; Zmenšení objemu dat pro úsporu místa a rychlejší přenos *; Zabezpečení souboru heslem proti otevření; Převod textu na zvukovou stopu
+ABCD; 1; [Informační systémy] Proč v databázích používáme tzv. primární klíč (např. rodné číslo nebo ID žáka)?; Jednoznačně odliší každý záznam, i když mají dva lidé stejné jméno *; Slouží k přihlášení správce do systému; Automaticky seřadí tabulku podle abecedy
+DOPLNIT; 1; [Data, informace a modelování] Bezpečný šifrovaný přenos webových stránek poznáme v prohlížeči podle protokolu:; https
+DOPLNIT; 1; [Algoritmizace a programování] Uspořádaná sada hodnot uložená pod jedním názvem (např. seznam všech známek žáka) se v programování nazývá:; pole; seznam; list; array
+OTEVRENA; 2; [Algoritmizace a programování] V algoritmu máme podmínku: KDYŽ (věk >= 15 A ZÁROVEŇ má_občanku = ANO). Vysvětli, za jaké situace bude tato podmínka splněna (pravdivá) a kdy ne.
+OTEVRENA; 2; [Informační systémy] Vysvětli na příkladu (třeba e-shopu nebo školního systému), jak funguje propojení dvou tabulek (relace) – např. tabulky Žáci a tabulky Vypůjčené knihy.
+OTEVRENA; 2; [Digitální technologie] Jaký je hlavní rozdíl mezi klasickým programem (který postupuje přesně podle napsaných pravidel) a systémem umělé inteligence (strojovým učením)?
+
+[VARIANTA B]
+ABCD; 1; [Data, informace a modelování] Jaký je rozdíl mezi bezeztrátovou kompresí (např. PNG, ZIP) a ztrátovou kompresí (např. JPG, MP3)?; Ztrátová komprese odstraní část detailů pro výrazné zmenšení souboru, bezeztrátová zachová 100 % původních dat *; Bezeztrátová komprese funguje jen u videa; Ztrátová komprese se používá pro textové dokumenty
+ABCD; 1; [Digitální technologie] Jak funguje směrování dat (paketů) na internetu?; Data se rozdělí na malé části (pakety), které putují sítí nezávisle různými cestami a v cíli se opět složí *; Celý soubor cestuje vždy jedním přímým kabelem bez přerušení; Data se nejprve vytisknou na centrálním serveru
+DOPLNIT; 1; [Digitální technologie] Jedinečná číselná adresa každého zařízení připojeného do počítačové sítě (např. 192.168.1.1) se nazývá:; IP adresa; IP
+DOPLNIT; 1; [Algoritmizace a programování] Pojmenovaný blok kódu (podprogram), který můžeme v programu opakovaně zavolat, abychom nemuseli psát stejný kód vícekrát, se nazývá:; funkce; procedura; metoda
+OTEVRENA; 2; [Algoritmizace a programování] V algoritmu máme podmínku: KDYŽ (je_víkend = ANO NEBO je_svátek = ANO). Vysvětli, kdy se tato podmínka splní (je pravdivá) a jak se liší od spojky A ZÁROVEŇ.
+OTEVRENA; 2; [Data, informace a modelování] Vysvětli, proč je nebezpečné posílat hesla nebo citlivé údaje přes veřejnou nezašifrovanou Wi-Fi síť (např. v kavárně).
+OTEVRENA; 2; [Digitální technologie] Uveď jedno konkrétní riziko nebo etický problém spojený s využíváním umělé inteligence (AI) v běžném životě.
