@@ -1,0 +1,21 @@
+NADPIS; Informatika – 8. ročník (Tabulky, algoritmizace a digitální svět)
+
+[VARIANTA A]
+ABCD; 1; Jaký znak musíme vždy napsat na začátek buňky v tabulkovém procesoru (Excel, Calc), když chceme vložit vzorec?; Rovná se (=) *; Křížek (#); Zavináč (@)
+ABCD; 1; Který zápis správně označuje oblast buněk od sloupce B a řádku 2 po sloupec D a řádek 10?; B2:D10 *; B2-D10; B2;D10
+DOPLNIT; 1; Kterou funkci v tabulkovém procesoru použijeme pro rychlý součet vybrané oblasti buněk? (napiš název funkce); SUMA; SUM
+DOPLNIT; 1; Přesný postup (návod) krok za krokem, který vede k vyřešení určitého úkolu, se v informatice nazývá:; algoritmus
+DOPLNIT; 1; Škodlivý program, který zašifruje soubory v počítači a požaduje výkupné za jejich odemčení, se nazývá:; ransomware
+OTEVRENA; 2; K čemu slouží v programu podmínka (větvení) „KDYŽ – TAK – JINAK“? Uveď konkrétní příklad ze života nebo ze hry.
+OTEVRENA; 2; Co je to dvoufázové ověření (2FA) při přihlašování k účtu a proč výrazně zvyšuje bezpečnost?
+OTEVRENA; 1; Kdy v tabulkovém procesoru použiješ koláčový (výsečový) graf a kdy raději sloupcový graf?
+
+[VARIANTA B]
+ABCD; 1; Který vzorec v tabulkovém procesoru správně vypočítá průměr z buněk A1 až A5?; =PRŮMĚR(A1:A5) *; =SOUČET(A1:A5)/A5; =PRŮMĚR(A1-A5)
+ABCD; 1; K čemu slouží v tabulkovém procesoru symbol dolaru v adrese buňky (např. $B$1)?; K uzamčení (absolutnímu odkazu) buňky při kopírování vzorce *; K převodu čísla na americké dolary; K skrytí obsahu buňky před ostatními
+DOPLNIT; 1; Opakování určité skupiny příkazů v algoritmu nebo programu (dokud platí podmínka nebo určitý početkrát) se nazývá:; cyklus; smyčka
+DOPLNIT; 1; Pojmenované místo v paměti programu, do kterého ukládáme měnící se hodnotu (např. skóre nebo čas), se nazývá:; proměnná
+DOPLNIT; 1; Podvodný e-mail nebo zpráva, která se tváří jako banka či úřad a snaží se z uživatele vylákat hesla nebo údaje z karty, se nazývá:; phishing
+OTEVRENA; 2; Vysvětli vlastními slovy rozdíl mezi dezinformací a misinformací (nebo uveď dva způsoby, jak ověřit důvěryhodnost článku na internetu).
+OTEVRENA; 2; Proč je výhodnější použít v tabulce vzorec (např. =B2*C2) místo toho, abychom výsledek spočítali na kalkulačce a vepsali ho do buňky jako číslo?
+OTEVRENA; 1; Co je to autorské právo (licence Creative Commons) a na co si musíš dát pozor, když stahuješ obrázky z internetu do své prezentace?

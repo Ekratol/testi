@@ -1,0 +1,19 @@
+NADPIS; Informatika 7. rocnik (dle RVP ZV - Nova informatika)
+
+[VARIANTA A]
+ABCD; 1; [Data a informace] Ktery z nasledujicich prikladu predstavuje informaci (nikoli jen samotne surove datum)?; Cislo 38,5 napsane na papirku; Zjisteni, ze mam teplotu 38,5 stupne a mel bych zustat doma *; Znakovy retezec 10110; Tabulka bez nazvu sloupcu
+ABCD; 1; [Modelovani] K cemu v informatice slouzi vytvoreni zjednoduseneho modelu (napr. schematu nebo grafu) realne situace?; K dokonalemu okopirovani vsech detailu sveta; K prehlednemu zobrazeni dulezitych vztahu a snazsimu reseni problemu *; Pouze k barevnemu vyzdobeni prezentace
+DOPLNIT; 1; [Kodovani dat] Zakladni jednotka informace v pocitaci, ktera nabyva hodnoty 0 nebo 1, se nazyva:; bit
+DOPLNIT; 1; [Informacni systemy] Uspořádaný soubor dat v tabulce, kde radek tvori jeden zaznam a sloupec urcuje vlastnost (atribut), se nazyva:; databaze; tabulka
+OTEVRENA; 2; [Algoritmizace - dekompozice] Chces naprogramovat hru, ve ktere postava sbira mince a vyhyba se prekazkam. Rozdel tento ukol (dekompozice) na alespone 3 mensi samostatne podukoly.
+OTEVRENA; 2; [Informacni systemy] Uved priklad skolniho informacniho systemu (napr. Bakalari, Skola Online) a napis, jaka data uchovava a kdo k nim ma pristup.
+OTEVRENA; 2; [Digitalni technologie a rizika] Vysvetli, proc pocitac uklada obrazky, zvuky i text jako posloupnost nul a jednicek (binarni kod) a jake riziko hrozi pri ztrate nebo poskozeni techto dat.
+
+[VARIANTA B]
+ABCD; 1; [Data a informace] Jakym zpusobem pocitac prevadi znaky (pismena) na cisla, aby je mohl ulozit a prenest?; Pomoci kodovaci tabulky (napr. ASCII nebo Unicode) *; Pomoci kresleni pismen do rastrove site; Pomoci zvukoveho zaznamu
+ABCD; 1; [Modelovani] Co v modelovani (napr. v myslenkove mape nebo stavovem diagramu) znaci sipky mezi jednotlivymi prvky?; Pouze grafickou ozdobu; Vztahy, navaznost nebo prechod mezi jednotlivymi stavy *; Vzdy jen matematicke scitani
+DOPLNIT; 1; [Kodovani dat] Skupina osmi bitu, ktera umoznuje zakodovat jeden znak textu, se nazyva:; bajt; byte
+DOPLNIT; 1; [Algoritmizace] Postupne hledani a opravovani chyb v navrzenem algoritmu nebo programu se odborne nazyva:; ladeni; debugging
+OTEVRENA; 2; [Data a modelovani] Mas za ukol zjistit, jakymi dopravnimi prostredky jezdi zaci vasi tridy do skoly. Navrhni, jak data sesbiras a jakou podobu bude mit vysledna tabulka (jake bude mit sloupce).
+OTEVRENA; 2; [Informacni systemy] Predstav si elektronicky katalog knihovny. Jake udaje (atributy) bys musel evidovat u kazde knihy, aby ji ctenar snadno nasel a knihovnik vedel, zda je pujcena?
+OTEVRENA; 2; [Digitalni technologie] Jaky je rozdil mezi lokalnim ulozistem (disk v pocitaci) a cloudovym ulozistem z hlediska dostupnosti dat a jejich zalohovani?

@@ -1,0 +1,21 @@
+NADPIS; Informatika – 7. ročník ZŠ (Data, kódování, sítě a bezpečnost)
+
+[VARIANTA A]
+ABCD; 1; Co znamená zkratka ICT (nebo IT) v informatice?; Informační a komunikační technologie *; Internetové a počítačové tabulky; Inteligentní centrální televize
+ABCD; 1; Která z následujících hodnot představuje nejmenší jednotku informace v počítači?; 1 bit *; 1 bajt (byte); 1 kilobajt (kB)
+ABCD; 1; Jaký je hlavní rozdíl mezi rastrovou (bitmapovou) a vektorovou grafikou?; Rastrová se skládá z bodů (pixelů), vektorová z geometrických tvarů *; Rastrová se dá neomezeně zvětšovat bez ztráty kvality; Vektorová grafika se používá jen pro fotografie
+DOPLNIT; 1; Jak se nazývá základní číselná soustava počítače, která používá pouze číslice 0 a 1?; dvojková; binární; dvojková soustava; binární soustava
+DOPLNIT; 1; Kolik bitů tvoří 1 bajt (1 B)?; 8; osm
+DOPLNIT; 1; Jak se nazývá podvodný e-mail nebo zpráva, která se snaží vylákat hesla nebo údaje o platební kartě?; phishing
+OTEVRENA; 2; Vysvětli, co je to „silné heslo“ (uveď alespoň 3 znaky, které by mělo splňovat) a proč není bezpečné používat stejné heslo na více webech.
+OTEVRENA; 2; Jak poznáš na internetu důvěryhodnou informaci od dezinformace nebo fake news? Uveď alespoň dva konkrétní kroky pro ověření.
+
+[VARIANTA B]
+ABCD; 1; Které z následujících zařízení patří výhradně mezi VÝSTUPNÍ zařízení počítače?; Monitor a tiskárna *; Klávesnice a webkamera; Mikrofon a skener
+ABCD; 1; Jaký souborový formát obrázku umožňuje průhledné pozadí a bezztrátovou kompresi (vhodný pro loga a grafiku)?; PNG *; JPG (JPEG); MP3
+ABCD; 1; Co je to „cloudové úložiště“ (např. Google Disk, OneDrive)?; Prostor na internetu pro ukládání a sdílení souborů odkudkoli *; Operační paměť (RAM) uvnitř procesoru; Antivirový program chránící pevný disk
+DOPLNIT; 1; Jak se nazývá škodlivý počítačový program (souhrnný název pro viry, trojské koně apod.)?; malware
+DOPLNIT; 1; Kolik kilobajtů (kB) má přibližně 1 megabajt (1 MB) v desítkové soustavě (nebo v informatice)?; 1000; 1024
+DOPLNIT; 1; Jak se nazývá celosvětová počítačová síť propojující miliony počítačů a serverů po celém světě?; internet
+OTEVRENA; 2; Co znamená pojem „digitální stopa“ a uveď alespoň dva příklady toho, jak ji na internetu zanecháváš.
+OTEVRENA; 2; Vysvětli rozdíl mezi hardwarem a softwarem počítače a uveď ke každému dva konkrétní příklady.

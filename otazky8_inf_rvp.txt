@@ -1,0 +1,19 @@
+NADPIS; Informatika 8. rocnik (dle RVP ZV - Nova informatika)
+
+[VARIANTA A]
+ABCD; 1; [Informacni systemy - prace s daty] Mas tabulku s 500 radky o prodeji zbozi a potrebujes zobrazit pouze polozky drazsi nez 1000 Kc. Ktery nastroj pouzijes?; Filtrovani dat *; Slouceni bunek; Zmenu typu pisma
+ABCD; 1; [Algoritmizace a programovani] Co je hlavni vyhodou pouziti cyklu (opakovani) pri navrhu algoritmu?; Program je kratsi, prehlednejsi a snaze se upravuje *; Program funguje bez pouziti podminek; Pocitac pri nem nespotrebovava zadnou pamet
+DOPLNIT; 1; [Informacni systemy - automatizace] V tabulkovem procesoru chceme automaticky secist hodnoty v bunkach B2 az B20. Napis spravny zapis funkce:; =SUMA(B2:B20); SUMA(B2:B20)
+DOPLNIT; 1; [Algoritmizace] Pojmenovane misto v pameti programu, ktere uchovava menici se hodnotu (napr. skore nebo pocet pokusu), se nazyva:; promenna
+OTEVRENA; 2; [Algoritmizace - podminky] Napis slovne nebo pomoci struktury KDYZ-TAK-JINAK algoritmus pro automaticke rozsviceni poulicni lampy na zaklade udaje ze svetelneho cidla.
+OTEVRENA; 2; [Data a modelovani] Vysvetli, proc je pro porovnani podilu jednotlivych volebnich stran vhodnejsi vysecovy (kolacovy) graf, zatimco pro vyvoj teploty behem dne spojnicovy graf.
+OTEVRENA; 2; [Digitalni technologie - bezpecnost] Co je to dvoufaktorove (dvoufazove) overeni pri prihlasovani do informacniho systemu a pred jakym typem utoku nas chrani?
+
+[VARIANTA B]
+ABCD; 1; [Informacni systemy - prace s daty] Co se stane v tabulce, kdyz pouzijes funkci Razeni (seradit od A do Z) pouze na jeden sloupec bez oznaceni souvisejicich sloupcu?; Data v radcich se rozhazi a prestanou k sobe patrit *; Automaticky se smazou prazdne radky; Tabulka se prevede na graf
+ABCD; 1; [Data a informace - sifrovani] Proc se citliva data (napr. hesla nebo komunikace v bankovnictvi) pri prenosu siti sifruji?; Aby je pri zachyceni cizi osobou nebylo mozne precist bez klice *; Aby se zmensila velikost prenaseneho souboru; Aby se zrychlilo pripojeni k internetu
+DOPLNIT; 1; [Informacni systemy - automatizace] V tabulkovem procesoru chceme vypocitat aritmeticky prumer z bunek C1 az C10. Napis spravny zapis funkce:; =PRUMER(C1:C10); PRUMER(C1:C10); =PRŮMĚR(C1:C10); PRŮMĚR(C1:C10)
+DOPLNIT; 1; [Algoritmizace] Rozdeleni sloziteho problemu na mensi, snaze resitelne casti se v informatice nazyva:; dekompozice
+OTEVRENA; 2; [Algoritmizace - ladeni] Zak napsal algoritmus pro vypocet obvodu obdelniku jako: obvod = a + b * 2. Vysvetli, proc algoritmus dava spatny vysledek, a napis jeho opravenou verzi.
+OTEVRENA; 2; [Informacni systemy] Navrhni strukturu tabulky pro evidenci skolnich sportovnich pomucek. Uved alespone 4 vhodne sloupce (atributy) a vysvetli, ktery sloupec by mohl slouzit jako jednoznacny identifikator.
+OTEVRENA; 2; [Digitalni technologie - bezpecnost] Popis, jak funguje utok zvany phishing a podle jakych dvou konkretnich znaku ho muzes v e-mailu nebo na webu rozpoznat.
