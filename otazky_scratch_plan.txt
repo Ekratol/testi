@@ -1,0 +1,19 @@
+NADPIS; Informatika – Programování ve Scratchi (souřadnice, ovládání, zprávy, podmínky, animace)
+
+[VARIANTA A]
+ABCD; 1; [Souřadnice] Kterým směrem se postava na scéně posune po spuštění bloku „změň y o -50“?; Dolů o 50 kroků *; Nahoru o 50 kroků; Doleva o 50 kroků; Doprava o 50 kroků
+DOPLNIT; 1; [Souřadnice] Jaké jsou souřadnice [x, y] přesného středu scény ve Scratchi? (napiš ve tvaru 0, 0); 0, 0; 0,0; [0, 0]; [0,0]; x:0 y:0
+ABCD; 1; [Animace] Jaký blok používáme ve Scratchi pro přepínání vzhledu postavy při vytváření plynulé chůze?; Další kostým *; Další pozadí; Změň velikost; Otoč se o 15 stupňů
+OTEVRENA; 2; [Ovládání a animace] Proč v animaci mezi přepínáním kostýmů vkládáme blok „čekej 0.2 sekund“? Co by se stalo bez něj?
+OTEVRENA; 2; [Podmínky] Vysvětli na konkrétním příkladu ze hry rozdíl mezi blokem „když ... tak ...“ a blokem „když ... tak ... jinak ...“.
+OTEVRENA; 2; [Zprávy] K čemu slouží bloky „vyšli zprávu ...“ a „po obdržení zprávy ...“? Popiš situaci ve hře, kde se využijí mezi dvěma postavami.
+OTEVRENA; 2; [Ovládání] Napiš stručně, jaké bloky (kategorie) použiješ, aby se postava pohybovala doprava při stisku klávesy šipka vpravo (upravuje souřadnici x).
+
+[VARIANTA B]
+ABCD; 1; [Souřadnice] Kterým směrem se postava na scéně posune po spuštění bloku „změň x o 60“?; Doprava o 60 kroků *; Doleva o 60 kroků; Nahoru o 60 kroků; Dolů o 60 kroků
+DOPLNIT; 1; [Souřadnice] Jaká je přibližná hodnota souřadnice x úplně na levém okraji scény ve Scratchi?; -240
+ABCD; 1; [Ovládání] Do jaké kategorie (barvy) patří bloky „po kliknutí na zelenou vlajku“ a „po stisku klávesy mezerník“?; Události *; Pohyb; Vnímání; Vzhled
+OTEVRENA; 2; [Animace] Popiš, jak vytvoříš plynulou animaci postavy (např. let ptáka nebo chůzi), která má připravené 3 různé kostýmy.
+OTEVRENA; 2; [Podmínky] Proč vkládáme podmínku „když se dotýkáš okraje, tak se odraz“ do cyklu „opakuj stále“ místo toho, aby se provedla jen jednou na začátku?
+OTEVRENA; 2; [Zprávy] Hráč ve hře sebere klíč a na druhém konci obrazovky se mají otevřít dveře. Jak tento děj naprogramuješ pomocí zpráv?
+OTEVRENA; 2; [Souřadnice a pohyb] Jaký je rozdíl mezi blokem „skoč na x: 100 y: 0“ a blokem „klouzej 1 sekund na x: 100 y: 0“?
