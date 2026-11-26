@@ -1,0 +1,105 @@
+NADPIS; Scratch - Souřadnice, ovládání, zprávy, podmínky a animace (100 otázek ABCD)
+
+[VARIANTA A]
+ABCD; 1; Jaké souřadnice má přesný střed scény ve Scratchi?; x: 0, y: 0 *; x: 100, y: 100; x: 240, y: 180; x: -240, y: -180
+ABCD; 1; Kterým směrem se postava pohne při spuštění bloku změň x o 50?; Doprava *; Doleva; Nahoru; Dolů
+ABCD; 1; Kterým směrem se postava pohne při spuštění bloku změň y o -30?; Dolů *; Nahoru; Doprava; Doleva
+ABCD; 1; Jaká je maximální hodnota souřadnice x na pravém okraji scény?; 240 *; 180; 360; 100
+ABCD; 1; Jaká je minimální hodnota souřadnice y na spodním okraji scény?; -180 *; -240; -100; 0
+ABCD; 1; Jaký je hlavní rozdíl mezi bloky skoč na x: 100 y: 50 a klouzej 2 sekund na x: 100 y: 50?; Skoč přemístí postavu okamžitě, klouzej plynule za 2 sekundy *; Skoč postavu otočí, klouzej ne; Oba bloky dělají přesně to samé; Klouzej funguje jen pro pozadí
+ABCD; 1; V jakém kvadrantu scény se nachází postava se souřadnicemi x: -120, y: 90?; Vlevo nahoře *; Vpravo nahoře; Vlevo dole; Vpravo dole
+ABCD; 1; Co se stane s postavou po bloku nastav x na 0?; Postava se přesune vodorovně přesně na střed scény, výška y zůstane stejná *; Postava skočí úplně doprostřed na x: 0 y: 0; Postava se otočí směrem nahoru; Postava zmizí ze scény
+ABCD; 1; Jak zjistíš aktuální souřadnice postavy na scéně během tvorby programu?; V informačním panelu pod scénou nebo pomocí modrých bloků souřadnice x a souřadnice y *; Pouze spuštěním celého programu; Souřadnice nelze zjistit; Kliknutím pravým tlačítkem na zelenou vlajku
+ABCD; 1; Který blok vrátí postavu z jakéhokoli místa okamžitě doprostřed obrazovky?; skoč na x: 0 y: 0 *; dopředu 0 kroků; změň x o 0; odraz se, narazíš-li na okraj
+ABCD; 1; Který blok z kategorie Události spustí program po kliknutí na zelenou vlajku?; po kliknutí na zelenou vlajku *; po stisku klávesy mezerník; po kliknutí na mě; čekej 1 sekund
+ABCD; 1; Jaký tvar mají bloky událostí (např. po kliknutí na zelenou vlajku) a proč?; Nahoře mají oblou čepičku, protože musí být vždy na začátku skriptu *; Jsou šestiúhelníkové, protože vrací pravdu nebo nepravdu; Jsou kulaté, protože obsahují čísla; Mají dole rovnou hranu, protože ukončují program
+ABCD; 1; Která kombinace bloků zajistí plynulé ovládání postavy šipkou vpravo po celou dobu hry?; po kliknutí na zelenou vlajku -> opakuj stále -> když klávesa šipka vpravo stisknuta? pak změň x o 10 *; po kliknutí na zelenou vlajku -> když klávesa šipka vpravo stisknuta? pak změň x o 10; po kliknutí na mě -> změň x o 10; čekej 1 sekund -> změň x o 10
+ABCD; 1; Co udělá blok čekej 0.5 sekund uvnitř skriptu?; Pozastaví vykonávání daného skriptu na půl sekundy *; Zastaví celou hru u všech postav; Zpomalí pohyb myši; Smaže postavu na půl sekundy
+ABCD; 1; Který blok spustí skript ve chvíli, kdy uživatel klikne myší přímo na danou postavu?; po kliknutí na mě *; po kliknutí na zelenou vlajku; po obdržení zprávy; po stisku klávesy šipka nahoru
+ABCD; 1; Proč nefunguje ovládání postavy, když dáme blok když klávesa mezerník stisknuta? hned pod zelenou vlajku bez cyklu?; Program klávesu zkontroluje jen jedinkrát v první zlomku sekundy po startu a pak skončí *; Mezerník ve Scratchi nelze použít; Blok když nesmí být pod zelenou vlajkou; Postava nemá nastavený kostým
+ABCD; 1; Jakou barvu mají bloky v kategorii Ovládání (např. čekej, opakuj, když)?; Oranžovou *; Světle modrou; Fialovou; Zelenou
+ABCD; 1; Jaký je rozdíl mezi cykly opakuj 10 krát a opakuj stále?; První provede příkazy přesně desetkrát a pokračuje dál, druhý běží do zastavení programu *; První je pro pohyb, druhý jen pro zvuky; Oba se opakují nekonečněkrát; Opakuj stále provede příkazy jen jednou
+ABCD; 1; Který blok zajistí, že se postava po dojití na kraj obrazovky otočí a neodjede pryč?; odraz se, narazíš-li na okraj *; skoč na x: 0 y: 0; skryj; změň velikost o -10
+ABCD; 1; Co se stane, když u postavy nastavíš způsob otáčení vlevo-vpravo a použiješ odraz se, narazíš-li na okraj?; Postava se po nárazu do okraje otočí zrcadlově a nebude chodit hlavou dolů *; Postava se přestane pohybovat; Postava se zmenší na polovinu; Postava se začne točit dokola
+ABCD; 1; K čemu primárně slouží zprávy ve Scratchi?; Ke komunikaci a spouštění akcí mezi různými postavami nebo scénou *; K psaní chatu mezi hráči po internetu; K uložení hry na pevný disk; K přejmenování postavy
+ABCD; 1; Kterou dvojici bloků potřebuješ pro odeslání a přijetí zprávy?; vyšli zprávu a po obdržení zprávy *; řekni Ahoj a mysli si Hmm; nastav proměnnou a změň proměnnou; po kliknutí na zelenou vlajku a čekej
+ABCD; 1; Co se stane, když jedna postava vyšle zprávu Konec hry a tři jiné postavy mají blok po obdržení zprávy Konec hry?; Všechny tři postavy současně spustí své skripty pod tímto blokem *; Zprávu přijme jen ta postava, která je nejblíže; Zpráva se ztratí, protože ji může přijmout jen jedna postava; Program nahlásí chybu
+ABCD; 1; Jaký je rozdíl mezi bloky vyšli zprávu a vyšli zprávu a čekej?; Druhý blok pozastaví skript odesílatele, dokud nedoběhnou všechny skripty spuštěné touto zprávou *; První blok zprávu neodešle; Druhý blok čeká 10 sekund před odesláním; Mezi bloky není žádný rozdíl
+ABCD; 1; Může zprávy ve Scratchi vysílat nebo přijímat i Scéna (pozadí)?; Ano, Scéna může zprávy jak vysílat, tak přijímat *; Ne, zprávy umí jen postavy; Scéna může zprávy jen přijímat, ale ne vysílat; Scéna nemá žádné bloky událostí
+ABCD; 1; Kdy je nejvhodnější použít zprávy místo bloku čekej X sekund?; Když chceme přesně sladit děj, například otevření dveří až ve chvíli, kdy postava sebere klíč *; Nikdy, blok čekej je vždy přesnější; Pouze při změně barvy pozadí; Pouze na úplném začátku hry
+ABCD; 1; Která kategorie bloků obsahuje příkaz vyšli zprávu?; Události *; Vnímání; Vzhled; Operátory
+ABCD; 1; Co se stane, když postava vyšle zprávu Start, ale žádná jiná postava nemá blok po obdržení zprávy Start?; Nestane se nic a program běží normálně dál *; Program se okamžitě zasekne; Objeví se chybové hlášení; Postava se smaže
+ABCD; 1; Kolik různých zpráv (s různými názvy) můžeš v jednom projektu vytvořit?; Libovolné množství podle potřeby projektu *; Maximálně 3 zprávy; Pouze 1 zprávu pro každou postavu; Maximálně 10 zpráv
+ABCD; 1; Jak může jedna postava přimět scénu, aby se přepnula na další pozadí (např. další úroveň hry)?; Vyšle zprávu např. Dalsi_level a Scéna po jejím obdržení změní pozadí *; Postava přímo smaže staré pozadí; Postava použije blok další kostým; Pozadí nelze během hry měnit
+ABCD; 1; Jaký je rozdíl mezi blokem když ... pak a blokem když ... pak ... jinak?; Druhý blok provede náhradní příkazy, pokud podmínka není splněna *; První blok funguje jen pro čísla; Druhý blok se opakuje stále dokola; Oba bloky dělají totéž
+ABCD; 1; Jaký tvar mají bloky podmínek (např. dotýkáš se okraj?), které se vkládají do příkazu když?; Šestiúhelníkový (špičaté kraje) *; Kulatý (oblé kraje); Obdélníkový se zářezem; Trojúhelníkový
+ABCD; 1; Do které kategorie patří blok dotýkáš se barvy ...?; Vnímání (světle modrá) *; Vzhled (fialová); Pohyb (modrá); Operátory (zelená)
+ABCD; 1; Co znamená zelený logický blok (operátor) se spojkou a zároveň?; Celá podmínka platí jen tehdy, když jsou splněny obě podmínky současně *; Stačí, aby platila alespoň jedna z podmínek; Obrátí výsledek podmínky na opak; Sečte dvě čísla dohromady
+ABCD; 1; Co znamená zelený logický blok se spojkou nebo?; Podmínka platí, pokud je splněna první, druhá nebo obě podmínky najednou *; Podmínka neplatí nikdy; Podmínka platí jen když neplatí ani jedna část; Blok slouží k násobení
+ABCD; 1; Co udělá logický blok ne (podmínka)?; Obrátí pravdivostní hodnotu – platí tehdy, když podmínka uvnitř není splněna *; Vypne počítač; Smaže podmínku; Zopakuje podmínku dvakrát
+ABCD; 1; Jak ve hře naprogramuješ, aby postava při dotyku červené lávy skočila zpět na start (x: -200, y: 0)?; opakuj stále -> když dotýkáš se barvy červená? pak skoč na x: -200 y: 0 *; když dotýkáš se barvy červená? pak změň barvu o 25; skoč na x: -200 y: 0 -> dotýkáš se barvy červená?; po kliknutí na mě -> dotýkáš se barvy červená?
+ABCD; 1; Jakou hodnotu vrací podmínkový (šestiúhelníkový) blok?; Pravda nebo nepravda (ano/ne) *; Libovolné desetinné číslo; Název aktuálního kostýmu; Souřadnici x
+ABCD; 1; Který blok z kategorie Vnímání zjistí, zda se hráčova postava srazila s postavou Nepřítel?; dotýkáš se Nepřítel? *; jdi k Nepřítel; ukaž Nepřítel; vyšli zprávu Nepřítel
+ABCD; 1; K čemu slouží blok opakuj dokud nenastane ...?; Opakuje příkazy uvnitř tak dlouho, dokud se vložená podmínka nestane pravdivou *; Opakuje příkazy přesně pětkrát; Zastaví program, jakmile začne; Přeskočí všechny příkazy uvnitř
+ABCD; 1; Co je to kostým postavy ve Scratchi?; Jeden z obrázků (fází vzhledu) téže postavy, jejichž střídáním vzniká animace *; Pozadí celé herní scény; Zvukový efekt při skoku; Proměnná pro počítání bodů
+ABCD; 1; Který blok přepne vzhled postavy na následující obrázek v jejím seznamu?; další kostým *; další pozadí; změň efekt barva o 25; ukaž
+ABCD; 1; Proč při tvorbě animace chůze vkládáme do cyklu za blok další kostým příkaz čekej 0.15 sekund?; Bez pauzy by se kostýmy střídaly tak rychle, že by lidské oko nevidělo plynulý pohyb *; Bez pauzy by se kostým nepřepnul ani jednou; Příkaz čekej mění barvu kostýmu; Jinak by se postava zmenšila
+ABCD; 1; Co udělá blok změň velikost o -10?; Zmenší postavu o 10 % její základní velikosti *; Nastaví velikost postavy na přesně 10 %; Posune postavu o 10 kroků doleva; Zmenší počet životů o 10
+ABCD; 1; Který blok obnoví původní normální velikost postavy?; nastav velikost na 100 % *; změň velikost o 100; nastav velikost na 0 %; zruš grafické efekty
+ABCD; 1; K čemu slouží blok skryj v kategorii Vzhled?; Zneviditelní postavu na scéně, ale její skripty běží dál na pozadí *; Trvale smaže postavu z celého projektu; Zastaví všechny skripty postavy; Vypne zvuk ve hře
+ABCD; 1; Proč je důležité dát na začátek hry (pod zelenou vlajku) blok ukaž, pokud postava během hry mizí?; Aby se postava při spuštění nové hry znovu objevila na scéně *; Blok ukaž není nikdy potřeba; Protože jinak nefunguje klávesnice; Aby se smazalo staré skóre
+ABCD; 1; Co způsobí blok změň efekt duch o 25?; Postava se stane částečně průhlednou *; Postava změní barvu na bílou; Postava se začne vznášet nahoru; Postava vydá strašidelný zvuk
+ABCD; 1; Který blok odstraní všechny barevné a tvarové deformace postavy (např. efekt duch nebo rybí oko)?; zruš grafické efekty *; nastav velikost na 100 %; další kostým; skryj
+ABCD; 1; Jaký je rozdíl mezi bloky řekni Ahoj po dobu 2 sekund a řekni Ahoj?; První zobrazí bublinu na 2 sekundy a pak zmizí, druhý ji nechá zobrazenou trvale *; První bublinu přečte nahlas, druhý jen napíše; Druhý blok bublinu vůbec nezobrazí; Oba bloky fungují úplně stejně
+
+[VARIANTA B]
+ABCD; 1; Jakou hodnotu má souřadnice x přesně uprostřed obrazovky?; 0 *; 240; -240; 180
+ABCD; 1; Kterým směrem se postava pohne při příkazu změň x o -40?; Doleva *; Doprava; Nahoru; Dolů
+ABCD; 1; Kterým směrem se postava pohne při příkazu změň y o 60?; Nahoru *; Dolů; Doprava; Doleva
+ABCD; 1; Jaká je minimální hodnota souřadnice x na levém okraji scény?; -240 *; -180; 0; -100
+ABCD; 1; Jaká je maximální hodnota souřadnice y na horním okraji scény?; 180 *; 240; 360; 90
+ABCD; 1; Co udělá blok nastav y na 100?; Přesune postavu svisle do výšky 100, vodorovná poloha x se nezmění *; Posune postavu o 100 kroků dopředu; Skočí na souřadnice x: 100, y: 100; Otočí postavu o 100 stupňů
+ABCD; 1; V jakém kvadrantu scény se nachází postava se souřadnicemi x: 150, y: -110?; Vpravo dole *; Vpravo nahoře; Vlevo dole; Vlevo nahoře
+ABCD; 1; Který blok plynule přesune postavu na určené souřadnice během zadaného času?; klouzej 1 sekund na x: ... y: ... *; skoč na x: ... y: ...; dopředu 10 kroků; změň x o 10
+ABCD; 1; Co udělá blok skoč na náhodná pozice?; Přemístí postavu okamžitě na libovolné místo na scéně *; Změní kostým postavy na náhodný; Otočí postavu náhodným směrem; Smaže postavu ze scény
+ABCD; 1; Kolik bodů (kroků) měří celá šířka scény ve Scratchi od levého okraje (-240) po pravý (+240)?; 480 *; 240; 360; 180
+ABCD; 1; Který blok spustí skript po stisknutí libovolné nebo konkrétní klávesy na klávesnici?; po stisku klávesy ... *; po kliknutí na mě; klávesa ... stisknuta?; čekej 1 sekund
+ABCD; 1; Jaký je rozdíl mezi blokem událostí po stisku klávesy mezerník a blokem vnímání klávesa mezerník stisknuta??; První je čepička spouštějící skript, druhý je šestiúhelníková podmínka dovnitř bloku když *; První funguje jen v cyklu, druhý ne; Oba mají stejný tvar i použití; Druhý blok spustí celý program
+ABCD; 1; Co se stane, když u jedné postavy vytvoříš dva samostatné skripty začínající blokem po kliknutí na zelenou vlajku?; Oba skripty se spustí současně (paralelně) *; Spustí se pouze ten, který je víc vlevo; Program nahlásí chybu a nespustí se; Spustí se jen kratší skript
+ABCD; 1; Jakou barvu mají bloky v kategorii Události (např. po kliknutí na zelenou vlajku)?; Žlutou *; Modrou; Zelenou; Růžovou
+ABCD; 1; Který blok zajistí plynulý pohyb postavy vpřed, aniž by se zasekla mimo obrazovku?; opakuj stále -> dopředu 5 kroků -> odraz se, narazíš-li na okraj *; dopředu 5 kroků; opakuj 5 krát -> skoč na x: 0 y: 0; po kliknutí na mě -> dopředu 5 kroků
+ABCD; 1; Co udělá příkaz otoč se směrem 90?; Natočí postavu směrem doprava *; Natočí postavu směrem nahoru; Otočí postavu vzhůru nohama; Posune postavu o 90 kroků
+ABCD; 1; Který blok z kategorie Ovládání pozastaví skript tak dlouho, dokud nezačne platit zadaná podmínka?; čekej dokud nenastane ... *; čekej 1 sekund; opakuj 10 krát; když ... pak
+ABCD; 1; Jak zastavíš běžící program ve Scratchi během testování hry?; Kliknutím na červený osmiúhelník (Stop) vedle zelené vlajky *; Stisknutím klávesy Enter; Kliknutím na postavu pravým tlačítkem; Zavřením prohlížeče
+ABCD; 1; Proč je pro ovládání pohybu ve hře lepší použít cyklus opakuj stále s blokem když klávesa ... stisknuta? než samotnou událost po stisku klávesy?; Pohyb je plynulejší a umožňuje stisknout dvě šipky najednou (např. pohyb šikmo) *; Událost po stisku klávesy nefunguje pro šipky; Cyklus opakuj stále šetří baterii počítače; Událost po stisku klávesy funguje jen jednou za hru
+ABCD; 1; Co udělá blok jdi k ukazatel myši uvnitř cyklu opakuj stále?; Postava se bude neustále přesouvat přímo na šipku myši *; Postava se bude otáčet za myší, ale zůstane na místě; Myš se přesune na postavu; Postava zmizí při dotyku myši
+ABCD; 1; Jaký je hlavní účel zpráv ve Scratchi?; Umožňují jedné postavě spustit skript u jiné postavy nebo u scény *; Zobrazují textové bubliny nad hlavou postavy; Slouží k přejmenování proměnných; Ukládají nejvyšší skóre hráče
+ABCD; 1; Kde najdeš blok po obdržení zprávy ...?; V kategorii Události (žlutá) *; V kategorii Vnímání (světle modrá); V kategorii Vzhled (fialová); V kategorii Pohyb (modrá)
+ABCD; 1; Co musíš udělat, když chceš vytvořit novou zprávu s vlastním názvem (např. Vyhra)?; Kliknout na rozbalovací nabídku v bloku vyšli zprávu a zvolit Nová zpráva *; Napsat název zprávy do bloku řekni; Vytvořit novou proměnnou; Přejmenovat hlavní postavu
+ABCD; 1; Může postava poslat zprávu sama sobě (svému jinému skriptu)?; Ano, postava může zprávu vyslat a sama ji i přijmout *; Ne, zprávu musí přijmout vždy jiná postava; Ano, ale pouze pokud má více kostýmů; Ne, způsobilo by to chybu
+ABCD; 1; Který blok odešle zprávu a okamžitě pokračuje v dalším příkazu pod sebou, aniž by čekal na dokončení akce příjemce?; vyšli zprávu ... *; vyšli zprávu ... a čekej; po obdržení zprávy ...; čekej 1 sekund
+ABCD; 1; Jak pomocí zpráv vyřešíš přechod ze úvodní obrazovky (Menu) do samotné hry po kliknutí na tlačítko Start?; Tlačítko po kliknutí vyšle zprávu Start_hry a skryje se; ostatní postavy se po přijetí zprávy ukážou *; Tlačítko smaže všechny ostatní postavy; Všechny postavy musí mít blok čekej 5 sekund; Zprávy se na tlačítko Start nedají použít
+ABCD; 1; Co se stane, když přejmenuješ existující zprávu nebo vytvoříš novou s překlepem?; Blok po obdržení zprávy se starým názvem na novou zprávu nebude reagovat *; Scratch překlep automaticky opraví; Zprávy nezávisí na svém názvu; Program se sám opraví po kliknutí na vlajku
+ABCD; 1; Kolik postav může najednou reagovat na jedinou vyslanou zprávu?; Všechny postavy i scéna, které mají blok po obdržení této zprávy *; Pouze jedna vybraná postava; Maximálně dvě postavy; Pouze postava, která je viditelná
+ABCD; 1; Který blok se hodí, když chceš, aby postava domluvila, vyslala zprávu druhé postavě a teprve až druhá postava domluví, pokračovala první dál?; vyšli zprávu ... a čekej *; vyšli zprávu ...; řekni Ahoj; po kliknutí na zelenou vlajku
+ABCD; 1; Kde se ve Scratchi ukládá seznam všech vytvořených zpráv v projektu?; V rozbalovacím seznamu přímo uvnitř bloků vyšli zprávu a po obdržení zprávy *; V záložce Zvuky; V záložce Kostýmy; V koši na ploše
+ABCD; 1; Kdy se provedou příkazy vložené dovnitř bloku když ... pak?; Pouze tehdy, když je vložená podmínka vyhodnocena jako pravdivá *; Vždy bez ohledu na podmínku; Pouze tehdy, když podmínka neplatí; Nikdy, pokud není uvnitř zvuk
+ABCD; 1; Který blok zjistí, zda se postava dotýká ukazatele myši?; dotýkáš se ukazatel myši? *; jdi k ukazatel myši; po kliknutí na mě; souřadnice x myši
+ABCD; 1; Co dělá blok když ... pak ... jinak, když podmínka NEPLATÍ?; Provede příkazy v dolní části (za slovem jinak) *; Neudělá vůbec nic a přeskočí celý blok; Zastaví celý program; Provede příkazy v horní části (za slovem pak)
+ABCD; 1; Který zelený blok (operátor) porovnává, zda je hodnota proměnné Životy menší než 1?; < (menší než) *; > (větší než); = (rovná se); + (plus)
+ABCD; 1; Jakou barvu mají logické operátory a zároveň, nebo, ne?; Zelenou *; Oranžovou; Modrou; Žlutou
+ABCD; 1; Kdy bude pravdivá podmínka: dotýkáš se Klíč? a zároveň klávesa E stisknuta??; Pouze ve chvíli, kdy se postava dotýká klíče a hráč zároveň drží klávesu E *; Kdykoli hráč stiskne klávesu E kdekoli na mapě; Kdykoli se postava dotkne klíče bez stisku klávesy; Nikdy
+ABCD; 1; Kdy bude pravdivá podmínka: dotýkáš se Oheň? nebo dotýkáš se Voda??; Když se postava dotýká ohně, když se dotýká vody, nebo když se dotýká obou najednou *; Pouze když se dotýká ohně i vody současně; Pouze když se nedotýká ani jednoho; Tato podmínka nejde sestavit
+ABCD; 1; Jak vybereš přesný odstín v bloku dotýkáš se barvy ...?; Kliknutím na barevné políčko v bloku a použitím nástroje kapátko přímo ze scény *; Musíš znát zpaměti číselný kód barvy; Barva se vybírá pouze z 5 základních barev; Barvu nelze měnit
+ABCD; 1; Který blok opakuje příkazy tak dlouho, dokud podmínka NEPLATÍ, a jakmile začne platit, cyklus ukončí?; opakuj dokud nenastane ... *; opakuj stále; opakuj 10 krát; když ... pak
+ABCD; 1; Proč musí být podmínka testující kolizi (např. dotýkáš se stěny?) obvykle uvnitř cyklu opakuj stále?; Aby hra kontrolovala náraz neustále po celou dobu pohybu, ne jen jednou na začátku *; Protože blok když bez cyklu nelze do skriptu vůbec vložit; Aby se postava pohybovala rychleji; Kvůli změně barvy stěny
+ABCD; 1; V jaké záložce editoru Scratch upravuješ nebo kreslíš jednotlivé fáze pohybu postavy?; Kostýmy *; Scénáře; Zvuky; Pozadí
+ABCD; 1; Který blok přepne postavu na konkrétní pojmenovaný vzhled (např. skok)?; změň kostým na skok *; další kostým; změň pozadí na skok; ukaž
+ABCD; 1; Co se stane, když spustíš blok další kostým u postavy, která je na svém posledním kostýmu v seznamu?; Přepne se zpět na první kostým v seznamu *; Program se zastaví s chybou; Postava zmizí ze scény; Kostým zůstane stát na posledním obrázku
+ABCD; 1; Jak vytvoříš iluzi, že postava roste (zvětšuje se postupně)?; Pomocí cyklu opakuj 10 krát, do kterého vložíš blok změň velikost o 5 a krátké čekej *; Jedním použitím bloku nastav velikost na 100 %; Přepnutím pozadí scény; Použitím bloku ukaž
+ABCD; 1; Co udělá blok změň efekt barva o 25?; Změní barevný odstín postavy *; Změní barvu pozadí celé scény; Zneviditelní postavu; Zvětší postavu o 25 %
+ABCD; 1; Který blok okamžitě zobrazí dříve skrytou postavu na scéně?; ukaž *; skryj; další kostým; zruš grafické efekty
+ABCD; 1; Jaký je rozdíl mezi kostýmem postavy a pozadím scény?; Kostým mění vzhled konkrétní postavy, pozadí mění vzhled celé plochy za postavami *; Mezi kostýmem a pozadím není žádný rozdíl; Pozadí se může pohybovat pomocí bloku dopředu 10 kroků; Kostým může mít jen hlavní postava
+ABCD; 1; Co se stane, když u postavy nastavíš efekt duch na 100?; Postava se stane úplně průhlednou (neviditelnou) *; Postava se zbarví do modra; Postava se zvětší na dvojnásobek; Postava se smaže z projektu
+ABCD; 1; Který blok z kategorie Vzhled pošle postavu před ostatní postavy, aby ji nezakrývaly?; přejdi do popředí *; ukaž; další kostým; odraz se, narazíš-li na okraj
+ABCD; 1; Jak zrychlíš animaci chůze postavy v cyklu, aniž bys měnil počet kostýmů?; Zkrátíš dobu v bloku čekej (např. z 0.3 na 0.1 sekundy) *; Zvýšíš počet kroků v bloku dopředu; Zvětšíš velikost postavy; Přidáš blok skryj
